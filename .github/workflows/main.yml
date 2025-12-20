@@ -1,4 +1,4 @@
-name: deploy KimBomi
+name: deploy KimSangSuk
 
 on:
   push:
